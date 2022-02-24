@@ -76,7 +76,9 @@ def olts():
         print('\nOpção Invalida! \n')
         olts()
 
-
+print("\nCreated by Vitor Daniel Verli!")
+print("GitHub Profile: https://github.com/VitorDanielVerli")
+print("Complete Profile: https://sitevitordanielverli.web.app\n")
 print('Digite o número correspondente a opção desejada e aperte ENTER! \n\n\n\n')
 
 on_press(onkeypress)  # Chama a função de reboot caso o CTRL DIREITO seja pressionado
