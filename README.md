@@ -1,6 +1,4 @@
-# AtivadorONUProvedores
-Script para ativação de ONU's em OLT's do tipo NOKIA via SSH.
+# ActivateONUScript
+Script for activate ONU's in OLT's NOKIA using SSH Protocol.
 
-Modifique do jeito que achar necessário.
-
-Created By Wiki. Instagram: @vitor_verli
+Created By Wiki. Instagram: @vitor.software
